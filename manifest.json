@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Canva Freemium",
+  "name": "Canva Pro Element Clipper (Freemium)",
   "version": "1.0",
   "description": "Browser extension to copy canva premium assets into clipboard.",
   "icons": {
